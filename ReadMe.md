@@ -20,6 +20,8 @@ To use this script, follow the steps below:
    - You can modify this Hit(Deletion) by changing the if (counter >= 200) and  while (counter < 200) {
     if (counter >= 200) to your desired deletion number. By default script will stop running after 200 Hits(Deletions)
    - After executing a deletion script, the browser may continue to display "Deleting" even after completion. Reloading the page prematurely could interrupt the execution of subsequent commands, such as a count function set to execute 200 times.
+![YoutubeDeleteVideo](https://media.giphy.com/media/RYSaM8wF5aMpkTlGzi/giphy.gif)
+
 
 ## Limitations
 
